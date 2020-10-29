@@ -1,0 +1,6 @@
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\pod.projekt\obj\Debug\pod.projekt.csprojAssemblyReference.cache
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\pod.projekt\obj\Debug\pod.projekt.Podcasts.resources
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\pod.projekt\obj\Debug\pod.projekt.Properties.Resources.resources
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\pod.projekt\obj\Debug\pod.projekt.csproj.GenerateResource.cache
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\pod.projekt\obj\Debug\pod.projekt.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\pod.projekt\obj\Debug\pod.projekt.Form1.resources

@@ -1,0 +1,6 @@
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\DAL1\bin\Debug\DAL1.dll
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\DAL1\bin\Debug\DAL1.pdb
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\DAL1\obj\Debug\DAL1.csprojAssemblyReference.cache
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\DAL1\obj\Debug\DAL1.csproj.CoreCompileInputs.cache
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\DAL1\obj\Debug\DAL1.dll
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\DAL1\obj\Debug\DAL1.pdb

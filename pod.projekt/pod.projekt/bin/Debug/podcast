@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<ArrayOfPodcast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Podcast>
+    <antalAvsnitt>31</antalAvsnitt>
+    <namn>ursäkta</namn>
+    <frekvens>0</frekvens>
+    <kategori />
+    <URLn>https://feed.pod.space/ursakta</URLn>
+    <Avsnitt>31</Avsnitt>
+    <PodcastNamn>ursäkta</PodcastNamn>
+    <Frekvensen>0</Frekvensen>
+    <Kategorier />
+  </Podcast>
+  <Podcast>
+    <antalAvsnitt>1729</antalAvsnitt>
+    <namn>The Joe Rogan Experience</namn>
+    <frekvens>0</frekvens>
+    <kategori />
+    <URLn>http://joeroganexp.joerogan.libsynpro.com/rss</URLn>
+    <Avsnitt>1729</Avsnitt>
+    <PodcastNamn>The Joe Rogan Experience</PodcastNamn>
+    <Frekvensen>0</Frekvensen>
+    <Kategorier />
+  </Podcast>
+  <Podcast>
+    <antalAvsnitt>9</antalAvsnitt>
+    <namn>FeedForAll Sample Feed</namn>
+    <frekvens>0</frekvens>
+    <kategori />
+    <URLn>https://www.feedforall.com/sample.xml</URLn>
+    <Avsnitt>9</Avsnitt>
+    <PodcastNamn>FeedForAll Sample Feed</PodcastNamn>
+    <Frekvensen>0</Frekvensen>
+    <Kategorier />
+  </Podcast>
+  <Podcast>
+    <antalAvsnitt>3</antalAvsnitt>
+    <namn>Sample Feed - Favorite RSS Related Software &amp; Resources</namn>
+    <frekvens>4</frekvens>
+    <kategori>Kategori2</kategori>
+    <URLn>https://www.feedforall.com/sample-feed.xml</URLn>
+    <Avsnitt>3</Avsnitt>
+    <PodcastNamn>Sample Feed - Favorite RSS Related Software &amp; Resources</PodcastNamn>
+    <Frekvensen>4</Frekvensen>
+    <Kategorier>Kategori2</Kategorier>
+  </Podcast>
+</ArrayOfPodcast>

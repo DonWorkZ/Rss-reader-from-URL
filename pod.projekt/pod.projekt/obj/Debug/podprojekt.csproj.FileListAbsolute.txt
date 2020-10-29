@@ -1,0 +1,18 @@
+C:\Users\Magnus\Documents\idas projekt\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\podprojekt.csprojAssemblyReference.cache
+C:\Users\Magnus\Documents\idas projekt\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\pod.projekt.Form1.resources
+C:\Users\Magnus\Documents\idas projekt\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\pod.projekt.Properties.Resources.resources
+C:\Users\Magnus\Documents\idas projekt\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\podprojekt.csproj.GenerateResource.cache
+C:\Users\Magnus\Documents\idas projekt\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\podprojekt.csproj.CoreCompileInputs.cache
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\podprojekt.csprojAssemblyReference.cache
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\pod.projekt.Form1.resources
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\pod.projekt.Properties.Resources.resources
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\podprojekt.csproj.GenerateResource.cache
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\podprojekt.csproj.CoreCompileInputs.cache
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\bin\Debug\pod.projekt.exe.config
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\bin\Debug\pod.projekt.exe
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\bin\Debug\pod.projekt.pdb
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\bin\Debug\DAL1.dll
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\bin\Debug\DAL1.pdb
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\podprojekt.csproj.CopyComplete
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\pod.projekt.exe
+D:\backup\development\c++\pod.projekt (2)\pod.projekt\pod.projekt\obj\Debug\pod.projekt.pdb

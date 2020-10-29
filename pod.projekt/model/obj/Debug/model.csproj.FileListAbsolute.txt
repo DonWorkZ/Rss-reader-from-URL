@@ -1,0 +1,2 @@
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\Magnus\Documents\idas projekt\pod.projekt\model\obj\Debug\model.csproj.CoreCompileInputs.cache
